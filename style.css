@@ -117,6 +117,7 @@ button {
 .elements-list li {
     background: #f7f7f7;
     /*height: 50px;*/
+    padding-right: 5px;
     padding-left: 10px;
     line-height: 50px;
     cursor: pointer;
